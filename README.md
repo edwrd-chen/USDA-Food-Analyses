@@ -1,1 +1,1 @@
-# USDA Food Research and Environment Atlas Analyses
+# USDA Food Access Research Atlas and Food Environment Atlas Analyses
